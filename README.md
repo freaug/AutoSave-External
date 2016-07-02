@@ -1,5 +1,5 @@
 # AutoSave-External
-An autosave Java external for pre Max7 programs
+An autosave Java external for pre Max7 programs (Max7 has autosave, so this object could cause issues)
 <h2>Purpose: </h2>
 I have a template of this feature that uses several objects but I wanted to see if I could make an external that would do the same thing.  I chose Java since the external will be compatiable with Mac and Windows (according to the docs).  Every 5 minutes the patch will be saved! 
 
