@@ -6,11 +6,12 @@ I have a template of this feature that uses several objects but I wanted to see 
 
 <h2>Use: </h2>
 There two ways to use the external.  
-You can use you attached template autoSave.maxpat <br>
-You can create a new object <i>mxj autoSave</i> at any point <br>
+    1. You can use you attached template autoSave.maxpat <br>
+    2. You can create a new object <i><b>mxj autoSave</b></i> at any point while working<br>
+    
 For either you need to do the following.<br><br>
 
-Place <i><str>autoSave.class</str></i> and <i><str>autoSave.java</str></i> in the classes folder:<br>
+Place <i><b>autoSave.class</b></i> and <i><b>autoSave.java</b></i> in the classes folder:<br>
     Cycling '74 > java > classes<br>
   
 If you opt for option 1 then you will need to place the autoSave.maxpat in the templates folder within the Cycling '74 folder. <br>
